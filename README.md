@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dilshad
-- 👀 I’m interested in Full Stack Devloper
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Web Devlopment
+- 👀 I’m interested in Full Stack Developer
+- 🌱 I’m currently Learning MERN Stack
+- 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me helloshad3@gmail.com 
 -  My Website http://dilshad.me/
 <!---
