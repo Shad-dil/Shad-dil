@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dilshad
 - 👀 I’m a Front End Developer at Infosys
 - 🌱 I’m currently Working on  FrontEnd Technologies
-- 💞️ I’m looking to collaborate on Web Development/FrontEndt/React/Angular
+- 💞️ I’m looking to collaborate on Web Development/FrontEndt/React/Next Js
 - 📫 How to reach me hellodilshad3@gmail.com 
   
 <!---
